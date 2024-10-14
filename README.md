@@ -116,9 +116,8 @@ halloween-candy-dashboard/
 ├── app.py                 # Main Streamlit application
 ├── data/
 │   └── candy-data.csv     # Dataset containing candy information
-├── styles/
-│   └── custom.css         # Custom CSS for styling
 ├── analysis.html          # Detailed analysis page
+├── analysis.ipynb         # Detailed analysis Notebook
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
 ```
