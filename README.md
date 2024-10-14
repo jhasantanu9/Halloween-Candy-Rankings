@@ -1,5 +1,9 @@
 # 🎃 Halloween Candy Dashboard
 
+## Overview
+
+The Halloween Candy Dashboard is an interactive web application designed to help users select the perfect assortment of candies for Halloween trick-or-treaters. Using data-driven analysis of 85 candy types, this dashboard provides insights into candy popularity, nutritional content, and price points to assist in making informed decisions for Halloween candy selection.
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -13,9 +17,6 @@
 - [License](#license)
 - [Contact](#contact)
 
-## Overview
-
-The Halloween Candy Dashboard is an interactive web application designed to help users select the perfect assortment of candies for Halloween trick-or-treaters. Using data-driven analysis of 85 candy types, this dashboard provides insights into candy popularity, nutritional content, and price points to assist in making informed decisions for Halloween candy selection.
 
 **Live Demo:** [Halloween Candy Dashboard](https://halloween-candy-rankings.streamlit.app/)
 
