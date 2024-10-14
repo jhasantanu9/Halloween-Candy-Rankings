@@ -270,7 +270,7 @@ with tab1:
             <li><strong>Safety</strong> 🧙‍♀️: Allergy considerations are taken into account to keep all trick-or-treaters safe.</li>
         </ul>    
     <p><strong>Curious about the data behind our candy selection?</strong> Click the button below to dive deeper into our detailed analysis!</p>
-    <a href='analysis.html' target='_blank' style='text-decoration: none; color: white; background-color: #D35400; padding: 10px 20px; border-radius: 5px;'>🔍 Dive into Our Analysis</a>
+    <a href='https://halloween-candy-rankings-analysis.netlify.app/' target='_blank' style='text-decoration: none; color: white; background-color: #D35400; padding: 10px 20px; border-radius: 5px;'>🔍 Dive into Our Analysis</a>
         
     """, unsafe_allow_html=True)
     
